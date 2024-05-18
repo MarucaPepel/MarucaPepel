@@ -1,5 +1,6 @@
 ### Hi there 👋 
-I'm a passionate developer and designer from Bucharest, Romania.
+My name is Maruca Pepel and i'm a passionate developer and designer from Bucharest, Romania.
+I am currently getting my Bachelor's degree in Computer Science from Karlsruhe Institute of Technology.
 
 My professional Experience:
 
@@ -16,3 +17,10 @@ Courses and Certifications:
  “Academia Micilor Developeri”, learned Java fundamentals and game development.
 -3DSMAX I Course, March 2021 - April 2021
  Pixellab Training Center.
+
+
+
+
+
+
+
